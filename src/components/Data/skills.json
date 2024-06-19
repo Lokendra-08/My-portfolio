@@ -1,0 +1,34 @@
+[
+  {
+    "title": "PYTHON",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "DJANGO",
+    "imageSrc": "skills/django.jpg"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title":"Pandas",
+    "imageSrc":"skills/pandas.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplot.png"
+  }
+]

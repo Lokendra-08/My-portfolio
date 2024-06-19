@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce website",
+    "imageSrc": "https://okcredit-blog-images-prod.storage.googleapis.com/2021/04/ecommerce3-1.jpg",
+    "description": "This is a project made with Django framework",
+    "source": "https://github.com/Lokendra-08/E-Commerce-website"
+  },
+  {
+    "key": 2,
+    "title": "Disease Prdiction System",
+    "imageSrc": "https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-125206.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718236800&semt=ais_user",
+    "description": "Disease prediction system is a ML project which predicts the heart disease, parkinson’s disease and diabetes. This project uses logistic regression and SVM algorithms to analyze medical data and make accurate predictions.",
+    "source": "https://github.com/Lokendra-08/Disease-Prediction-System-using-ML"
+  },
+  {
+    "key": 3,
+    "title": "Analysis the Effect of Weather Conditions on Covid-19",
+    "imageSrc": "https://graduate.northeastern.edu/resources/wp-content/uploads/sites/4/2020/06/iStock-1221293664-1-1-1.jpg",
+    "description": "This Data Science project analyses how the weather conditions affect the covid-19 cases in metro cities and their neighbouring cities. This project visualizes the data using python libraries like Seaborn and Matplotlib and finds meaningful results from them and then train Linear regression model on the data..",
+    "source": "https://github.com/Lokendra-08/Effect-of-Weather-conditions-on-Covid19-cases/tree/master"
+  }
+]
